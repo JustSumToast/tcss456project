@@ -61,9 +61,4 @@ Most business owners lack time and resources to hire consultants or sift through
 ---
 
 ## Live Demo
-
-Run locally:
-
-```bash
-cd app
-python app.py
+https://drive.google.com/file/d/1_ocQs0V-9mNFgKaiVY_M6VK6jut5EHgJ/view?resourcekey
