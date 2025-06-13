@@ -30,7 +30,7 @@ Most business owners lack time and resources to hire consultants or sift through
 
 ## Model Selection & Justification
 
-**Model Used**: OpenAI GPT-3.5 via API
+**Model Used**: Gemmi via API
 
 **Why This Model?**
 - Handles diverse business queries
@@ -56,7 +56,7 @@ Most business owners lack time and resources to hire consultants or sift through
 
 ## System Architecture
 
-![Architecture](docs/architecture_diagram.png)
+(SHOW HERE)
 
 ---
 
